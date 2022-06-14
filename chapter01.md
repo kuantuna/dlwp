@@ -38,7 +38,7 @@ Alan Turing (1950),
 
 - Computers in principle be made to emulate all aspects of human intelligence
 
-![Figure](https://github.com/kuantuna/dlwp/blob/main/images/cpvsdl.png?raw=true)
+![Figure](https://github.com/kuantuna/dlwp/blob/main/images/cpvsml.png?raw=true)
 
 - ML started in 1990s
 
