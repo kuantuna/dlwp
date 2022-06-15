@@ -69,3 +69,27 @@ ML is searching representations in the "hypothesis space"
 - Models for DL is neural networks
 
 - One can think layers in DL as an "information-distillation" process
+
+### 1.1.5 Understanding how deep learning works
+
+- The specification of what a layer does to its input data is stored in the layer's weights
+
+- Learning is nothing but finding the set of values for the weights of all layers in a network
+
+- Loss function = Cost function = Objective function
+
+- Optimizer uses loss socre as a feedback signal and adjust the values of the weights a little. This is called the **"backpropagation"**
+
+### 1.1.6 What deep learning has achieved so far?
+
+Altough DL is fairly old, it only rose to prominence in the early 2010s
+
+### 1.1.7 Don't believe the short-term hype
+
+Autonomous caes are within react but human-level general intelligence may take a lot of years
+
+### 1.1.8 The promise of AI
+
+Most of the research findings of DL aren't yet applied.
+
+> "Do not believe the short-term hype, but do believe the long-term vision."
